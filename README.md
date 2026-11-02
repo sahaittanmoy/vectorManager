@@ -187,8 +187,10 @@ OPENAI_API_KEY=sk-...
 
 ## Screenshots
 
-<img width="1194" height="375" alt="image" src="https://github.com/user-attachments/assets/78902319-6f02-4700-b2ad-08979828cce5" />
-<img width="1188" height="561" alt="image" src="https://github.com/user-attachments/assets/cb07f76a-67fd-428a-a014-4e51268740fe" />
-<img width="1213" height="954" alt="image" src="https://github.com/user-attachments/assets/b5c98408-8b54-4b1d-9084-26ec45593639" />
+<img width="859" height="265" alt="image" src="https://github.com/user-attachments/assets/874de6be-a5c9-4c0f-9d3a-a07c708bdd0c" />
+<img width="921" height="726" alt="image" src="https://github.com/user-attachments/assets/1f86a10f-4583-4e34-95f3-6feea0f4cfc4" />
+<img width="940" height="683" alt="image" src="https://github.com/user-attachments/assets/8d6aa3b2-9462-44d6-a017-b3901177e83a" />
+<img width="765" height="682" alt="image" src="https://github.com/user-attachments/assets/d041441d-ce45-40e8-8001-003f09ba306a" />
+
 
 
