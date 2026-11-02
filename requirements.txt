@@ -1,0 +1,4 @@
+Flask>=2.0.0
+weaviate-client>=3.26.0
+python-dotenv>=1.0.0
+gunicorn>=21.0.0
